@@ -1,0 +1,5 @@
+latitude: 57.01508
+longitude: 9.983706
+altitude: 6.322906
+horizontal accuracy: 6
+time stamp: 1529062404.00174
